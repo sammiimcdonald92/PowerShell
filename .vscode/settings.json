@@ -36,5 +36,8 @@
   "powershell.codeFormatting.whitespaceAfterSeparator": true,
 
   // Omnisharp : Enable EditorConfig support
-  "omnisharp.enableEditorConfigSupport": true
+  "omnisharp.enableEditorConfigSupport": true,
+  "editor.defaultFormatter": "danielpinto8zz6.c-cpp-compile-run",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": false
 }
